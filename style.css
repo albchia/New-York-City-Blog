@@ -1,5 +1,6 @@
 body {
-	background: #e6e6e6;
+    background: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 nav ul {
@@ -25,7 +26,7 @@ li a {
 }
 
 li a:hover {
-	background-color: #111;
+	background-color: rgba(255, 255, 255, 0.384);
 }
 
 h2 a {
@@ -35,11 +36,11 @@ h2 a {
 }
 
 h2 a:hover {
-	background-color: #111;
+	background-color: black;
 }
 
 figcaption{
-  text-align:left;
+  text-align:center;
 }
 
 header {
@@ -56,9 +57,9 @@ article {
 
 img {
 	width: 400px;
-	height: 300px;
-  position:relative;
-  right:28px;
+    height: 300px;
+    position:center;
+    right:28px;
 }
 
 aside {

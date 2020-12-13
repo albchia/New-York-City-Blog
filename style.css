@@ -40,7 +40,7 @@ h2 a:hover {
 }
 
 figcaption{
-  text-align:center;
+  text-align: relative;
 }
 
 header {
@@ -70,7 +70,8 @@ aside {
 	position: relative;
 	border-color: #010e80;
 	border-width: 5px;
-	font-size: 18px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 footer {

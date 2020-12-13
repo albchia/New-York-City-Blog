@@ -4,7 +4,7 @@ A simple webpage using mainly HTML and CSS to show something about the big City!
 
 This is one of the projects I realized during the Codecademy Course "Intro to HTML".
 
-[See full project](https://albchia.github.io/Wine-Festival-Schedule/)
+[See full project](https://albchia.github.io/New-York-City-Blog/)
 
 ## Table of Contents
 
@@ -38,8 +38,11 @@ Feel free to customize information and style the webpage.
 It's time to create a blog to show off the City.
 In this Codecademy Pro project, we are going to practice various semantic HTML elements, so you can hone your skills and feel confident taking them to the real world.
 
-There are some CSS elements only to add sme style to the page.
+There are some CSS elements only to add some style to the page.
 
+### Project Follow Up
+
+As I'd like to improve little by little this project, adding CSS elements and rendering better the page, you maybe will discover the project is different from the initial project. 
 
 ## Contributing
 

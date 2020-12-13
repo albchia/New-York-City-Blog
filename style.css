@@ -100,17 +100,17 @@ video {
 	display: block;
 	width: 420px;
 	height: 250px;
-  padding:15px;
+    padding:15px;
 }
 
 audio {
 	padding: 15px;
 	width: 98%;
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 embed {
 	width: 400px;
 	height: 458px;
-  padding:15px;
+    padding:15px;
 }

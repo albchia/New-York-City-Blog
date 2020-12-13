@@ -19,7 +19,7 @@ This is the third project made during Codecademy classroom on "Intro to HTML".
 
 My _New York City Blog_!
 
-![Wine_Festival_Schedule_screenshot](https://user-images.githubusercontent.com/70691672/101172198-26672480-3641-11eb-9273-026cd54d6270.PNG)
+![Screenshot-New-York_Blog](https://user-images.githubusercontent.com/70691672/102023253-507cbd00-3d8c-11eb-8ffd-a56757f02817.PNG)
 
 ### Project Overview
 

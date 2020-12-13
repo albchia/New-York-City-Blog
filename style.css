@@ -40,7 +40,7 @@ h2 a:hover {
 }
 
 figcaption{
-  text-align:center;
+  text-align: relative;
 }
 
 header {

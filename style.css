@@ -40,7 +40,7 @@ h2 a:hover {
 }
 
 figcaption{
-  text-align: relative;
+  text-align: left;
 }
 
 header {
@@ -117,5 +117,9 @@ embed {
 }
 
 h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }

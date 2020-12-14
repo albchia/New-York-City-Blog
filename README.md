@@ -38,7 +38,7 @@ Feel free to customize information and style the webpage.
 It's time to create a blog to show off the City.
 In this Codecademy Pro project, we are going to practice various semantic HTML elements, so you can hone your skills and feel confident taking them to the real world.
 
-There are some CSS elements only to add some style to the page.
+Some CSS elements have been added to style a little more to the HTML structure of the page.
 
 ### Project Follow Up
 
